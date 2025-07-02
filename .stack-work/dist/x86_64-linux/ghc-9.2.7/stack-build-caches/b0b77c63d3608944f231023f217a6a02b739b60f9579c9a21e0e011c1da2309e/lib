@@ -1,0 +1,14 @@
+/home/dankh/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/include/ghcversion.h:
+  hash: d590b76d2d5f98f01894882dc106d920a101f52edb6a09b9a7f8dc701b075565
+? /home/dankh/IdeaProjects/exercism/haskell/reverse-string/.stack-work/dist/x86_64-linux/ghc-9.2.7/build/autogen/Paths_reverse_string.hs
+: hash: b90ef58bc7a35ffb409f654e11cb7d727a70170c6fa35cf502d3821a14b34d2b
+/home/dankh/IdeaProjects/exercism/haskell/reverse-string/.stack-work/dist/x86_64-linux/ghc-9.2.7/build/autogen/cabal_macros.h:
+  hash: 36af838ca8d7312f1d0f874544c53d54323b3cf191f75de0ad354817391ce156
+/home/dankh/IdeaProjects/exercism/haskell/reverse-string/package.yaml:
+  hash: b890e1480b3250833d7ab93c04b7bd4033e0b9cbfeb80993edf2f6d8ec141585
+/home/dankh/IdeaProjects/exercism/haskell/reverse-string/reverse-string.cabal:
+  hash: 37b4121d09fc44f72ca016b221870c17da3753ea6f7ac80d733992eff4ce904b
+/home/dankh/IdeaProjects/exercism/haskell/reverse-string/src/ReverseString.hs:
+  hash: b9c0363bc05a33860c21c95c6fa397026756f68c0b338079a4ac7747df16375c
+/usr/include/stdc-predef.h:
+  hash: cb08cd5d4cc059a90833ac48a284d25016e8d56ded8ad4cd98d8ac59cc5053f3

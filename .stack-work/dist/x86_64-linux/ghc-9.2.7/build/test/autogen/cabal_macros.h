@@ -41,6 +41,16 @@
   (major1) == 0 && (major2) == 1 && (minor) <= 0)
 #endif /* MIN_VERSION_reverse_string */
 
+/* tool alex-3.2.7.2 */
+#ifndef TOOL_VERSION_alex
+#define TOOL_VERSION_alex "3.2.7.2"
+#endif /* TOOL_VERSION_alex */
+#ifndef MIN_TOOL_VERSION_alex
+#define MIN_TOOL_VERSION_alex(major1,major2,minor) (\
+  (major1) <  3 || \
+  (major1) == 3 && (major2) <  2 || \
+  (major1) == 3 && (major2) == 2 && (minor) <= 7)
+#endif /* MIN_TOOL_VERSION_alex */
 /* tool gcc-11 */
 #ifndef TOOL_VERSION_gcc
 #define TOOL_VERSION_gcc "11"
@@ -81,6 +91,16 @@
   (major1) == 2 && (major2) <  26 || \
   (major1) == 2 && (major2) == 26 && (minor) <= 0)
 #endif /* MIN_TOOL_VERSION_haddock */
+/* tool happy-1.20.1.1 */
+#ifndef TOOL_VERSION_happy
+#define TOOL_VERSION_happy "1.20.1.1"
+#endif /* TOOL_VERSION_happy */
+#ifndef MIN_TOOL_VERSION_happy
+#define MIN_TOOL_VERSION_happy(major1,major2,minor) (\
+  (major1) <  1 || \
+  (major1) == 1 && (major2) <  20 || \
+  (major1) == 1 && (major2) == 20 && (minor) <= 1)
+#endif /* MIN_TOOL_VERSION_happy */
 /* tool hpc-0.68 */
 #ifndef TOOL_VERSION_hpc
 #define TOOL_VERSION_hpc "0.68"

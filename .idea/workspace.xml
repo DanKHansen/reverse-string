@@ -4,19 +4,55 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b86860d7-745a-41a8-9df8-757149708733" name="Changes" comment="" />
+    <list default="true" id="b86860d7-745a-41a8-9df8-757149708733" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.stack-work/dist/x86_64-linux/ghc-9.2.7/build/Paths_reverse_string.dyn_hi" beforeDir="false" afterPath="$PROJECT_DIR$/.stack-work/dist/x86_64-linux/ghc-9.2.7/build/Paths_reverse_string.dyn_hi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.stack-work/dist/x86_64-linux/ghc-9.2.7/build/Paths_reverse_string.dyn_o" beforeDir="false" afterPath="$PROJECT_DIR$/.stack-work/dist/x86_64-linux/ghc-9.2.7/build/Paths_reverse_string.dyn_o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.stack-work/dist/x86_64-linux/ghc-9.2.7/build/Paths_reverse_string.hi" beforeDir="false" afterPath="$PROJECT_DIR$/.stack-work/dist/x86_64-linux/ghc-9.2.7/build/Paths_reverse_string.hi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.stack-work/dist/x86_64-linux/ghc-9.2.7/build/Paths_reverse_string.o" beforeDir="false" afterPath="$PROJECT_DIR$/.stack-work/dist/x86_64-linux/ghc-9.2.7/build/Paths_reverse_string.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.stack-work/dist/x86_64-linux/ghc-9.2.7/build/autogen/cabal_macros.h" beforeDir="false" afterPath="$PROJECT_DIR$/.stack-work/dist/x86_64-linux/ghc-9.2.7/build/autogen/cabal_macros.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.stack-work/dist/x86_64-linux/ghc-9.2.7/build/libHSreverse-string-0.1.0.0-JMnapwk567MJLuaqieKA3t-ghc9.2.7.so" beforeDir="false" afterPath="$PROJECT_DIR$/.stack-work/dist/x86_64-linux/ghc-9.2.7/build/libHSreverse-string-0.1.0.0-JMnapwk567MJLuaqieKA3t-ghc9.2.7.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.stack-work/dist/x86_64-linux/ghc-9.2.7/build/libHSreverse-string-0.1.0.0-JMnapwk567MJLuaqieKA3t.a" beforeDir="false" afterPath="$PROJECT_DIR$/.stack-work/dist/x86_64-linux/ghc-9.2.7/build/libHSreverse-string-0.1.0.0-JMnapwk567MJLuaqieKA3t.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.stack-work/dist/x86_64-linux/ghc-9.2.7/build/test/autogen/cabal_macros.h" beforeDir="false" afterPath="$PROJECT_DIR$/.stack-work/dist/x86_64-linux/ghc-9.2.7/build/test/autogen/cabal_macros.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.stack-work/dist/x86_64-linux/ghc-9.2.7/build/test/test-tmp/Paths_reverse_string.hi" beforeDir="false" afterPath="$PROJECT_DIR$/.stack-work/dist/x86_64-linux/ghc-9.2.7/build/test/test-tmp/Paths_reverse_string.hi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.stack-work/dist/x86_64-linux/ghc-9.2.7/build/test/test-tmp/Paths_reverse_string.o" beforeDir="false" afterPath="$PROJECT_DIR$/.stack-work/dist/x86_64-linux/ghc-9.2.7/build/test/test-tmp/Paths_reverse_string.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.stack-work/dist/x86_64-linux/ghc-9.2.7/setup-config" beforeDir="false" afterPath="$PROJECT_DIR$/.stack-work/dist/x86_64-linux/ghc-9.2.7/setup-config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.stack-work/dist/x86_64-linux/ghc-9.2.7/stack-build-caches/b0b77c63d3608944f231023f217a6a02b739b60f9579c9a21e0e011c1da2309e/lib" beforeDir="false" afterPath="$PROJECT_DIR$/.stack-work/dist/x86_64-linux/ghc-9.2.7/stack-build-caches/b0b77c63d3608944f231023f217a6a02b739b60f9579c9a21e0e011c1da2309e/lib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.stack-work/install/x86_64-linux/b0b77c63d3608944f231023f217a6a02b739b60f9579c9a21e0e011c1da2309e/9.2.7/lib/x86_64-linux-ghc-9.2.7/libHSreverse-string-0.1.0.0-JMnapwk567MJLuaqieKA3t-ghc9.2.7.so" beforeDir="false" afterPath="$PROJECT_DIR$/.stack-work/install/x86_64-linux/b0b77c63d3608944f231023f217a6a02b739b60f9579c9a21e0e011c1da2309e/9.2.7/lib/x86_64-linux-ghc-9.2.7/libHSreverse-string-0.1.0.0-JMnapwk567MJLuaqieKA3t-ghc9.2.7.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.stack-work/install/x86_64-linux/b0b77c63d3608944f231023f217a6a02b739b60f9579c9a21e0e011c1da2309e/9.2.7/lib/x86_64-linux-ghc-9.2.7/reverse-string-0.1.0.0-JMnapwk567MJLuaqieKA3t/Paths_reverse_string.dyn_hi" beforeDir="false" afterPath="$PROJECT_DIR$/.stack-work/install/x86_64-linux/b0b77c63d3608944f231023f217a6a02b739b60f9579c9a21e0e011c1da2309e/9.2.7/lib/x86_64-linux-ghc-9.2.7/reverse-string-0.1.0.0-JMnapwk567MJLuaqieKA3t/Paths_reverse_string.dyn_hi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.stack-work/install/x86_64-linux/b0b77c63d3608944f231023f217a6a02b739b60f9579c9a21e0e011c1da2309e/9.2.7/lib/x86_64-linux-ghc-9.2.7/reverse-string-0.1.0.0-JMnapwk567MJLuaqieKA3t/Paths_reverse_string.hi" beforeDir="false" afterPath="$PROJECT_DIR$/.stack-work/install/x86_64-linux/b0b77c63d3608944f231023f217a6a02b739b60f9579c9a21e0e011c1da2309e/9.2.7/lib/x86_64-linux-ghc-9.2.7/reverse-string-0.1.0.0-JMnapwk567MJLuaqieKA3t/Paths_reverse_string.hi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.stack-work/install/x86_64-linux/b0b77c63d3608944f231023f217a6a02b739b60f9579c9a21e0e011c1da2309e/9.2.7/lib/x86_64-linux-ghc-9.2.7/reverse-string-0.1.0.0-JMnapwk567MJLuaqieKA3t/libHSreverse-string-0.1.0.0-JMnapwk567MJLuaqieKA3t.a" beforeDir="false" afterPath="$PROJECT_DIR$/.stack-work/install/x86_64-linux/b0b77c63d3608944f231023f217a6a02b739b60f9579c9a21e0e011c1da2309e/9.2.7/lib/x86_64-linux-ghc-9.2.7/reverse-string-0.1.0.0-JMnapwk567MJLuaqieKA3t/libHSreverse-string-0.1.0.0-JMnapwk567MJLuaqieKA3t.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.stack-work/stack.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/.stack-work/stack.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseString.hs" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseString.hs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DanKHansen&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DanKHansen/reverse-string.git&quot;,
+    &quot;accountId&quot;: &quot;d532808a-5730-443c-8b42-219d28921464&quot;
+  }
+}</component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2zK31VOEWAKiu2eGrqDft503DJV" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,9 +60,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/dankh/scalaprojects/doodle",
-    "settings.editor.selected.configurable": "preferences.sourceCode.Scala",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/dankh/IdeaProjects/exercism/scala/pangram",
+    "settings.editor.selected.configurable": "settings.sync",
     "settings.editor.splitter.proportion": "0.2955665"
   }
 }]]></component>

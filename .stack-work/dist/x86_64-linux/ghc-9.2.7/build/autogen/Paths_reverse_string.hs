@@ -43,7 +43,7 @@ getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir, getSysconfDir :: 
 
 bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir :: FilePath
 bindir     = "/home/dankh/IdeaProjects/exercism/haskell/reverse-string/.stack-work/install/x86_64-linux/b0b77c63d3608944f231023f217a6a02b739b60f9579c9a21e0e011c1da2309e/9.2.7/bin"
-libdir     = "/home/dankh/IdeaProjects/exercism/haskell/reverse-string/.stack-work/install/x86_64-linux/b0b77c63d3608944f231023f217a6a02b739b60f9579c9a21e0e011c1da2309e/9.2.7/lib/x86_64-linux-ghc-9.2.7/reverse-string-0.1.0.0-JMnapwk567MJLuaqieKA3t"
+libdir     = "/home/dankh/IdeaProjects/exercism/haskell/reverse-string/.stack-work/install/x86_64-linux/b0b77c63d3608944f231023f217a6a02b739b60f9579c9a21e0e011c1da2309e/9.2.7/lib/x86_64-linux-ghc-9.2.7/reverse-string-0.1.0.0-GZY0d26BSR1Dnwvex8crfh"
 dynlibdir  = "/home/dankh/IdeaProjects/exercism/haskell/reverse-string/.stack-work/install/x86_64-linux/b0b77c63d3608944f231023f217a6a02b739b60f9579c9a21e0e011c1da2309e/9.2.7/lib/x86_64-linux-ghc-9.2.7"
 datadir    = "/home/dankh/IdeaProjects/exercism/haskell/reverse-string/.stack-work/install/x86_64-linux/b0b77c63d3608944f231023f217a6a02b739b60f9579c9a21e0e011c1da2309e/9.2.7/share/x86_64-linux-ghc-9.2.7/reverse-string-0.1.0.0"
 libexecdir = "/home/dankh/IdeaProjects/exercism/haskell/reverse-string/.stack-work/install/x86_64-linux/b0b77c63d3608944f231023f217a6a02b739b60f9579c9a21e0e011c1da2309e/9.2.7/libexec/x86_64-linux-ghc-9.2.7/reverse-string-0.1.0.0"
